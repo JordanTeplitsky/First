@@ -1,0 +1,16 @@
+body {
+    background-image: url(../img/hotel-wallpaper.png);
+    font-family: verdana, sans-serif;
+    scroll-behavior: smooth;
+}
+h2 {
+    margin-top: 300px;
+    margin-left: 700px;
+    margin-right: 700px;
+    color:rgb(240, 197, 179);
+    background-color: white;
+}
+
+.odin {
+margin-top: 300px;
+}
