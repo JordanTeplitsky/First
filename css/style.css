@@ -22,7 +22,6 @@ a:active {
     color:rgb(155, 114, 125);
 }
 
-
 .one {
     padding:300px;
     background-image: url(../img/cat.jpg);
@@ -45,8 +44,6 @@ span {
     text-decoration:underline;
     background-color: white;
 }
-
-
 
 /* The CSS Box Model for leaving comments! */
 
