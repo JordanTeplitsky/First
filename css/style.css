@@ -1,7 +1,21 @@
+.one {
+    padding:300px;
+    background-image: url(../img/cat.jpg);
+    background-repeat: no-repeat;
+    background-position-x: center;
+    background-position-y: center;
+    background-size: contain;
+    background-blend-mode:overlay;
+    overflow:scroll;
+}
+
+
 body {
     background-image: url(../img/hotel-wallpaper.png);
     font-family: verdana, sans-serif;
     scroll-behavior: smooth;
+    position: relative;
+    z-index: -10;
 }
 
 
@@ -22,18 +36,6 @@ a:hover {
 a:active {
     color:rgb(155, 114, 125);
 }
-
-.one {
-    padding:300px;
-    background-image: url(../img/cat.jpg);
-    background-repeat: no-repeat;
-    background-position-x: center;
-    background-position-y: center;
-    background-size: contain;
-    background-blend-mode:overlay;
-    overflow:scroll;
-}
-
 
 
 span {
